@@ -1,0 +1,86 @@
+{
+    "Apple___Apple_scab": {
+        "local_name": "Scab",
+        "hindi_name": "स्कैब",
+        "description": "Dark scaly spots on leaves and fruit surface",
+        "severity": {
+            "mild": "Few scattered spots, less than 10% leaf area affected",
+            "moderate": "Spots spreading, 10-30% leaf area affected",
+            "severe": "Heavy infection, fruit deformed, more than 30% affected"
+        },
+        "treatment": [
+            "Spray Mancozeb or Captan fungicide",
+            "Apply during early morning or evening",
+            "Repeat every 10-14 days during wet season"
+        ],
+        "prevention": [
+            "Prune and destroy infected leaves",
+            "Improve air circulation in orchard",
+            "Avoid overhead irrigation"
+        ],
+        "season": "Spring to early summer, worse in wet conditions"
+    },
+    "Apple___Black_rot": {
+        "local_name": "Black Rot",
+        "hindi_name": "काला सड़न",
+        "description": "Brown to black rotting spots on fruit and leaves",
+        "severity": {
+            "mild": "Small brown spots on leaves only",
+            "moderate": "Spots on both leaves and fruit",
+            "severe": "Fruit rotting, mummified fruit on tree"
+        },
+        "treatment": [
+            "Remove and destroy infected fruit immediately",
+            "Spray Thiophanate-methyl or Captan",
+            "Apply copper based fungicide"
+        ],
+        "prevention": [
+            "Remove mummified fruit from tree and ground",
+            "Prune dead wood regularly",
+            "Maintain clean orchard floor"
+        ],
+        "season": "Summer, spreads rapidly in warm humid conditions"
+    },
+    "Apple___Cedar_apple_rust": {
+        "local_name": "Rusting",
+        "hindi_name": "जंग रोग",
+        "description": "Bright orange-yellow spots on leaves and fruit",
+        "severity": {
+            "mild": "Few orange spots on leaves only",
+            "moderate": "Multiple spots, leaves turning yellow",
+            "severe": "Heavy spotting, early leaf drop, fruit infected"
+        },
+        "treatment": [
+            "Spray Myclobutanil or Propiconazole fungicide",
+            "Apply at pink bud stage before infection",
+            "Repeat every 7-10 days during spring"
+        ],
+        "prevention": [
+            "Remove nearby cedar or juniper trees if possible",
+            "Apply protective fungicide before rainy season",
+            "Monitor orchard regularly in spring"
+        ],
+        "season": "Spring, requires both apple and cedar trees nearby"
+    },
+    "Apple___healthy": {
+        "local_name": "Healthy",
+        "hindi_name": "स्वस्थ",
+        "description": "No disease detected, tree appears healthy",
+        "severity": {
+            "mild": "NA",
+            "moderate": "NA",
+            "severe": "NA"
+        },
+        "treatment": [
+            "Continue regular monitoring",
+            "Maintain balanced fertilization",
+            "Ensure proper irrigation"
+        ],
+        "prevention": [
+            "Regular pruning for air circulation",
+            "Balanced NPK fertilization",
+            "Monitor for early signs of disease"
+        ],
+        "season": "Monitor year round"
+    }
+}
