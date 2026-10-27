@@ -1,0 +1,10 @@
+photo,v2 answer,v2 confidence %,v3 answer,v3 confidence %
+leaf01,No answer,55.4,Cedar_apple_rust,94.6
+leaf02,Apple_scab,99.5,Cedar_apple_rust,89.9
+leaf03,Black_rot,94.0,Black_rot,88.9
+leaf04,Cedar_apple_rust,85.3,No answer,46.0
+leaf05,No answer,43.0,No answer,45.6
+leaf06,Apple_scab,96.8,No answer,35.6
+leaf07,Apple_scab,99.2,Cedar_apple_rust,64.9
+leaf08,healthy,99.5,No answer,41.9
+leaf09,Apple_scab,72.7,No answer,53.3
